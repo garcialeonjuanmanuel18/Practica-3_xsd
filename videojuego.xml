@@ -1,0 +1,16 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<inventario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNameSchemaLocation="tienda.xsd">
+xsi:noNameSchemaLocation
+    <videojuego id="a5245">
+        <titulo>Mewgenics</titulo>
+        <precio>28.99</precio>
+        <consola>pc</consola>
+    </videojuego>
+    <videojuego id="b5436">
+        <titulo>TBOI</titulo>
+        <precio>15</precio>
+        <consola>pc</consola>
+    </videojuego>
+</inventario>
